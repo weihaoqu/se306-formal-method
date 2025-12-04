@@ -1,0 +1,5 @@
+{
+  "name": "Formal Methods TA Bot",
+  "description": "An AI-powered Teaching Assistant for the SE-306 Formal Methods course, capable of answering questions about LTL, CTL, Model Checking, and Petri Nets with strict academic citations.",
+  "requestFramePermissions": []
+}
